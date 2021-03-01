@@ -1,8 +1,6 @@
-![gmaps Heatmap](/VacationPy/VacationPy_Images/gmaps_heatmap.png)
-
 # SQL Challenge - Employee Database
 
-## Background
+#### Background
 
 This research project is on employees of the Pewlett Hackard corporation from the 1980s and 1990s. All that remain of the database of employees from that period are six CSV files.
 
@@ -26,9 +24,15 @@ Once I had the complete database, I generated the following:
 
 1. A list of the following details of each employee: employee number, last name, first name, sex, and salary.
 
+![Employee Snapshot](/Images/1.employee_snapshot.png)
+
 2. A list including first name, last name, and hire date for employees who were hired in 1986.
 
+![Employees Hired 1986](/Images/2.employees_hired_1986.png)
+
 3. A list of the manager of each department with the following information: department number, department name, the manager's employee number, last name, first name.
+
+![Data Visualization](/Images/table_visualization.png)
 
 4. A list of the department of each employee with the following information: employee number, last name, first name, and department name.
 
