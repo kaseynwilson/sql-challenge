@@ -40,8 +40,16 @@ Once I had the complete database, I generated the following:
 
 5. A list including first name, last name, and sex for employees whose first name is "Hercules" and last names begin with "B."
 
+![Employee Hercules](/Images/5_employee_hercules.png)
+
 6. A list of all employees in the Sales department, including their employee number, last name, first name, and department name.
+
+![Employees Sales Department](/Images/6_employees_sales_dept.png)
 
 7. A list of all employees in the Sales and Development departments, including their employee number, last name, first name, and department name.
 
+![Employees Sales and Development](/Images/7_employees_sales_and_dev.png)
+
 8. In descending order, a list of the frequency count of employee last names (i.e., how many employees share each last name).
+
+![Last Name Count](/Images/8_last_name_count.png)
